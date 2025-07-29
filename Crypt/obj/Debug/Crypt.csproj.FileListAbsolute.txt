@@ -1,0 +1,5 @@
+C:\dev\Crypt\Crypt\bin\Debug\Crypt.exe.config
+C:\dev\Crypt\Crypt\bin\Debug\Crypt.exe
+C:\dev\Crypt\Crypt\bin\Debug\Crypt.pdb
+C:\dev\Crypt\Crypt\obj\Debug\Crypt.exe
+C:\dev\Crypt\Crypt\obj\Debug\Crypt.pdb

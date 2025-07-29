@@ -1,0 +1,7 @@
+C:\dev\Crypt\Crypt\bin\Release\Crypt.exe.config
+C:\dev\Crypt\Crypt\bin\Release\Crypt.exe
+C:\dev\Crypt\Crypt\bin\Release\Crypt.pdb
+C:\dev\Crypt\Crypt\obj\Release\Crypt.exe
+C:\dev\Crypt\Crypt\obj\Release\Crypt.pdb
+C:\dev\Crypt\Crypt\obj\Release\Crypt.csproj.AssemblyReference.cache
+C:\dev\Crypt\Crypt\obj\Release\Crypt.csproj.CoreCompileInputs.cache
